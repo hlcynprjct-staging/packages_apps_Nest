@@ -7,7 +7,7 @@
         errorLine1="        getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/allapps/AllAppsContainerView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/allapps/AllAppsContainerView.java"
             line="203"
             column="9"/>
     </issue>
@@ -18,7 +18,7 @@
         errorLine1="        getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="                                                           ~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/allapps/AllAppsContainerView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/allapps/AllAppsContainerView.java"
             line="203"
             column="60"/>
     </issue>
@@ -29,7 +29,7 @@
         errorLine1="        getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="                                    ~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/allapps/AllAppsContainerView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/allapps/AllAppsContainerView.java"
             line="203"
             column="37"/>
     </issue>
@@ -40,7 +40,7 @@
         errorLine1="                getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/allapps/AllAppsRecyclerView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/allapps/AllAppsRecyclerView.java"
             line="193"
             column="17"/>
     </issue>
@@ -51,7 +51,7 @@
         errorLine1="                getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="                                                                   ~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/allapps/AllAppsRecyclerView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/allapps/AllAppsRecyclerView.java"
             line="193"
             column="68"/>
     </issue>
@@ -62,7 +62,7 @@
         errorLine1="                getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="                                            ~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/allapps/AllAppsRecyclerView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/allapps/AllAppsRecyclerView.java"
             line="193"
             column="45"/>
     </issue>
@@ -73,7 +73,7 @@
         errorLine1="            widgetView.updateAppWidgetSize(new Bundle(), sizes);"
         errorLine2="                       ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/AppWidgetResizeFrame.java"
+            file="packages/apps/Nest/src/com/android/launcher3/AppWidgetResizeFrame.java"
             line="399"
             column="24"/>
     </issue>
@@ -84,7 +84,7 @@
         errorLine1="        potentialTaskRect.inset(insets.left, insets.top, insets.right, insets.bottom);"
         errorLine2="                          ~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
             line="248"
             column="27"/>
     </issue>
@@ -95,7 +95,7 @@
         errorLine1="        potentialTaskRect.inset("
         errorLine2="                          ~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
             line="249"
             column="27"/>
     </issue>
@@ -106,7 +106,7 @@
         errorLine1="        outRect.inset(Math.max(insets.left, sideMargin), Math.max(insets.top, topMargin),"
         errorLine2="                ~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
             line="291"
             column="17"/>
     </issue>
@@ -117,7 +117,7 @@
         errorLine1="        gridRect.inset(0, dp.overviewTaskThumbnailTopMarginPx, 0, 0);"
         errorLine2="                 ~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/BaseActivityInterface.java"
             line="315"
             column="18"/>
     </issue>
@@ -128,7 +128,7 @@
         errorLine1="                    .getCurrentWindowMetrics().getWindowInsets();"
         errorLine2="                     ~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/DeviceProfile.java"
+            file="packages/apps/Nest/src/com/android/launcher3/DeviceProfile.java"
             line="236"
             column="22"/>
     </issue>
@@ -139,7 +139,7 @@
         errorLine1="                    .getCurrentWindowMetrics().getWindowInsets();"
         errorLine2="                                               ~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/DeviceProfile.java"
+            file="packages/apps/Nest/src/com/android/launcher3/DeviceProfile.java"
             line="236"
             column="48"/>
     </issue>
@@ -150,7 +150,7 @@
         errorLine1="            if (mContext.getDisplay() != null) {"
         errorLine2="                         ~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/interaction/EdgeBackGestureHandler.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/interaction/EdgeBackGestureHandler.java"
             line="115"
             column="26"/>
     </issue>
@@ -161,7 +161,7 @@
         errorLine1="                mContext.getDisplay().getRealSize(mDisplaySize);"
         errorLine2="                         ~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/interaction/EdgeBackGestureHandler.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/interaction/EdgeBackGestureHandler.java"
             line="116"
             column="26"/>
     </issue>
@@ -172,7 +172,7 @@
         errorLine1="        Display display = getDisplay();"
         errorLine2="                          ~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/interaction/GestureSandboxActivity.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/interaction/GestureSandboxActivity.java"
             line="153"
             column="27"/>
     </issue>
@@ -183,7 +183,7 @@
         errorLine1="                    List.of(new Rect(0, 0, metrics.widthPixels, metrics.heightPixels)));"
         errorLine2="                         ~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/interaction/GestureSandboxActivity.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/interaction/GestureSandboxActivity.java"
             line="158"
             column="26"/>
     </issue>
@@ -194,7 +194,7 @@
         errorLine1="            resetColorResources();"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetHostView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetHostView.java"
             line="137"
             column="13"/>
     </issue>
@@ -205,7 +205,7 @@
         errorLine1="            mColorExtractor.addLocation(List.of(mLastLocationRegistered));"
         errorLine2="                                             ~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetHostView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetHostView.java"
             line="367"
             column="46"/>
     </issue>
@@ -216,7 +216,7 @@
         errorLine1="                mColorExtractor.addLocation(List.of(mLastLocationRegistered));"
         errorLine2="                                                 ~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetHostView.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetHostView.java"
             line="390"
             column="50"/>
     </issue>
@@ -227,7 +227,7 @@
         errorLine1="                (ATLEAST_S &amp;&amp; maxResizeWidth > 0)"
         errorLine2="                              ~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="91"
             column="31"/>
     </issue>
@@ -238,7 +238,7 @@
         errorLine1="                        ? getSpanX(widgetPadding, maxResizeWidth, smallestCellWidth)"
         errorLine2="                                                  ~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="92"
             column="51"/>
     </issue>
@@ -249,7 +249,7 @@
         errorLine1="                (ATLEAST_S &amp;&amp; maxResizeHeight > 0)"
         errorLine2="                              ~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="95"
             column="31"/>
     </issue>
@@ -260,7 +260,7 @@
         errorLine1="                        ? getSpanY(widgetPadding, maxResizeHeight, smallestCellHeight)"
         errorLine2="                                                  ~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="96"
             column="51"/>
     </issue>
@@ -271,7 +271,7 @@
         errorLine1="        if (ATLEAST_S &amp;&amp; targetCellWidth >= minSpanX &amp;&amp; targetCellWidth &lt;= maxSpanX"
         errorLine2="                         ~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="101"
             column="26"/>
     </issue>
@@ -282,7 +282,7 @@
         errorLine1="        if (ATLEAST_S &amp;&amp; targetCellWidth >= minSpanX &amp;&amp; targetCellWidth &lt;= maxSpanX"
         errorLine2="                                                        ~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="101"
             column="57"/>
     </issue>
@@ -293,7 +293,7 @@
         errorLine1="                &amp;&amp; targetCellHeight >= minSpanY &amp;&amp; targetCellHeight &lt;= maxSpanY) {"
         errorLine2="                   ~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="102"
             column="20"/>
     </issue>
@@ -304,7 +304,7 @@
         errorLine1="                &amp;&amp; targetCellHeight >= minSpanY &amp;&amp; targetCellHeight &lt;= maxSpanY) {"
         errorLine2="                                                   ~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="102"
             column="52"/>
     </issue>
@@ -315,7 +315,7 @@
         errorLine1="            spanX = targetCellWidth;"
         errorLine2="                    ~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="103"
             column="21"/>
     </issue>
@@ -326,7 +326,7 @@
         errorLine1="            spanY = targetCellHeight;"
         errorLine2="                    ~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/LauncherAppWidgetProviderInfo.java"
             line="104"
             column="21"/>
     </issue>
@@ -337,7 +337,7 @@
         errorLine1="        final Display display = mContext.getDisplay();"
         errorLine2="                                         ~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/interaction/NavBarGestureHandler.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/interaction/NavBarGestureHandler.java"
             line="94"
             column="42"/>
     </issue>
@@ -348,7 +348,7 @@
         errorLine1="            return (int) (100 * info.getLoadingProgress());"
         errorLine2="                                     ~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/util/PackageManagerHelper.java"
+            file="packages/apps/Nest/src/com/android/launcher3/util/PackageManagerHelper.java"
             line="338"
             column="38"/>
     </issue>
@@ -359,7 +359,7 @@
         errorLine1="    private List&lt;WidgetsListBaseEntry> mAllWidgets = List.of();"
         errorLine2="                                                          ~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/popup/PopupDataProvider.java"
+            file="packages/apps/Nest/src/com/android/launcher3/popup/PopupDataProvider.java"
             line="64"
             column="59"/>
     </issue>
@@ -370,7 +370,7 @@
         errorLine1="    private List&lt;ItemInfo> mRecommendedWidgets = List.of();"
         errorLine2="                                                      ~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/popup/PopupDataProvider.java"
+            file="packages/apps/Nest/src/com/android/launcher3/popup/PopupDataProvider.java"
             line="66"
             column="55"/>
     </issue>
@@ -381,7 +381,7 @@
         errorLine1="                    .submit(() -> new SurfaceControlViewHost(mContext, mDisplay, mHostToken))"
         errorLine2="                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
+            file="packages/apps/Nest/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
             line="91"
             column="35"/>
     </issue>
@@ -392,7 +392,7 @@
         errorLine1="            surfacePackage = mSurfaceControlViewHost.getSurfacePackage();"
         errorLine2="                                                     ~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
+            file="packages/apps/Nest/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
             line="93"
             column="54"/>
     </issue>
@@ -403,7 +403,7 @@
         errorLine1="                host.setView(view, view.getMeasuredWidth(), view.getMeasuredHeight());"
         errorLine2="                     ~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
+            file="packages/apps/Nest/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
             line="127"
             column="22"/>
     </issue>
@@ -414,7 +414,7 @@
         errorLine1="        result.putParcelable(KEY_SURFACE_PACKAGE, surfacePackage);"
         errorLine2="                                                  ~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
+            file="packages/apps/Nest/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
             line="132"
             column="51"/>
     </issue>
@@ -425,7 +425,7 @@
         errorLine1="                mSurfaceControlViewHost.release();"
         errorLine2="                                        ~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
+            file="packages/apps/Nest/src/com/android/launcher3/graphics/PreviewSurfaceRenderer.java"
             line="149"
             column="41"/>
     </issue>
@@ -436,7 +436,7 @@
         errorLine1="        outline.setPath(mPath);"
         errorLine2="                ~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/popup/RoundedArrowDrawable.java"
+            file="packages/apps/Nest/src/com/android/launcher3/popup/RoundedArrowDrawable.java"
             line="88"
             column="17"/>
     </issue>
@@ -447,7 +447,7 @@
         errorLine1="                ? new EdgeEffect(context, attrs) : new EdgeEffect(context);"
         errorLine2="                  ~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/views/SpringRelativeLayout.java"
+            file="packages/apps/Nest/src/com/android/launcher3/views/SpringRelativeLayout.java"
             line="49"
             column="19"/>
     </issue>
@@ -458,7 +458,7 @@
         errorLine1="                ? new EdgeEffect(context, attrs) : new EdgeEffect(context);"
         errorLine2="                  ~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/views/SpringRelativeLayout.java"
+            file="packages/apps/Nest/src/com/android/launcher3/views/SpringRelativeLayout.java"
             line="51"
             column="19"/>
     </issue>
@@ -469,7 +469,7 @@
         errorLine1="        mWindowLayoutParams.setFitInsetsTypes(0);"
         errorLine2="                            ~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/launcher3/taskbar/TaskbarController.java"
+            file="packages/apps/Nest/quickstep/src/com/android/launcher3/taskbar/TaskbarController.java"
             line="316"
             column="29"/>
     </issue>
@@ -480,7 +480,7 @@
         errorLine1="            Insets systemInsets = insets.getInsets(WindowInsets.Type.systemBars());"
         errorLine2="                                         ~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/interaction/TutorialFragment.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/interaction/TutorialFragment.java"
             line="118"
             column="42"/>
     </issue>
@@ -491,7 +491,7 @@
         errorLine1="            Insets systemInsets = insets.getInsets(WindowInsets.Type.systemBars());"
         errorLine2="                                                                     ~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/quickstep/src/com/android/quickstep/interaction/TutorialFragment.java"
+            file="packages/apps/Nest/quickstep/src/com/android/quickstep/interaction/TutorialFragment.java"
             line="118"
             column="70"/>
     </issue>
@@ -502,7 +502,7 @@
         errorLine1="            CharSequence description = mItem.widgetInfo.loadDescription(getContext());"
         errorLine2="                                                        ~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/WidgetCell.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/WidgetCell.java"
             line="193"
             column="57"/>
     </issue>
@@ -513,7 +513,7 @@
         errorLine1="                &amp;&amp; item.widgetInfo.previewLayout != Resources.ID_NULL) {"
         errorLine2="                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/WidgetCell.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/WidgetCell.java"
             line="214"
             column="20"/>
     </issue>
@@ -524,7 +524,7 @@
         errorLine1="            launcherAppWidgetProviderInfo.initialLayout = item.widgetInfo.previewLayout;"
         errorLine2="                                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/WidgetCell.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/WidgetCell.java"
             line="222"
             column="59"/>
     </issue>
@@ -535,7 +535,7 @@
         errorLine1="        getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/picker/WidgetsFullSheet.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/picker/WidgetsFullSheet.java"
             line="558"
             column="9"/>
     </issue>
@@ -546,7 +546,7 @@
         errorLine1="        getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="                                                           ~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/picker/WidgetsFullSheet.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/picker/WidgetsFullSheet.java"
             line="558"
             column="60"/>
     </issue>
@@ -557,7 +557,7 @@
         errorLine1="        getWindowInsetsController().hide(WindowInsets.Type.ime());"
         errorLine2="                                    ~~~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/picker/WidgetsFullSheet.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/picker/WidgetsFullSheet.java"
             line="558"
             column="37"/>
     </issue>
@@ -568,7 +568,7 @@
         errorLine1="            return new RecommendationTableData(List.of(), previewScale);"
         errorLine2="                                                    ~~">
         <location
-            file="packages/apps/Launcher3/src/com/android/launcher3/widget/picker/WidgetsRecommendationTableLayout.java"
+            file="packages/apps/Nest/src/com/android/launcher3/widget/picker/WidgetsRecommendationTableLayout.java"
             line="139"
             column="53"/>
     </issue>

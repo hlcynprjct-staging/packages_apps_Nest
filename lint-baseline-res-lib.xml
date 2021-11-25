@@ -7,7 +7,7 @@
         errorLine1="        android:topLeftRadius=&quot;?android:attr/dialogCornerRadius&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/res/drawable/add_item_dialog_background.xml"
+            file="packages/apps/Nest/res/drawable/add_item_dialog_background.xml"
             line="6"
             column="9"/>
     </issue>
@@ -18,7 +18,7 @@
         errorLine1="        android:topRightRadius=&quot;?android:attr/dialogCornerRadius&quot; />"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/res/drawable/add_item_dialog_background.xml"
+            file="packages/apps/Nest/res/drawable/add_item_dialog_background.xml"
             line="7"
             column="9"/>
     </issue>
@@ -29,7 +29,7 @@
         errorLine1="    &lt;style name=&quot;Widget.DeviceDefault.Button.Rounded.Colored&quot; parent=&quot;@android:style/Widget.DeviceDefault.Button.Colored&quot;>"
         errorLine2="                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/res/values/styles.xml"
+            file="packages/apps/Nest/res/values/styles.xml"
             line="287"
             column="63"/>
     </issue>
@@ -40,7 +40,7 @@
         errorLine1="    &lt;corners android:radius=&quot;@android:dimen/system_app_widget_background_radius&quot; />"
         errorLine2="             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="packages/apps/Launcher3/res/drawable/widget_resize_frame.xml"
+            file="packages/apps/Nest/res/drawable/widget_resize_frame.xml"
             line="20"
             column="14"/>
     </issue>
